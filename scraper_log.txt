@@ -1,0 +1,225 @@
+2026-05-15 13:21:39,172 [INFO] ==================================================
+2026-05-15 13:21:39,173 [INFO] SCRAPER PROFESIONAL — INICIANDO
+2026-05-15 13:21:39,174 [INFO] ==================================================
+2026-05-15 13:21:39,174 [INFO] Scrapeando página 1...
+2026-05-15 13:21:40,959 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-1.html
+2026-05-15 13:21:40,992 [INFO] Página 1: 0 productos | Total acumulado: 0
+2026-05-15 13:21:40,995 [INFO] No hay más páginas — scraping completado
+2026-05-15 13:21:40,998 [ERROR] No se obtuvieron datos
+2026-05-15 13:25:49,677 [INFO] ==================================================
+2026-05-15 13:25:49,679 [INFO] SCRAPER PROFESIONAL — INICIANDO
+2026-05-15 13:25:49,680 [INFO] ==================================================
+2026-05-15 13:25:49,680 [INFO] Scrapeando página 1...
+2026-05-15 13:25:51,271 [INFO] OK [200] → https://books.toscrape.com/
+2026-05-15 13:25:51,290 [INFO] Página 1: 0 productos | Total acumulado: 0
+2026-05-15 13:25:51,296 [INFO] No hay más páginas — scraping completado
+2026-05-15 13:25:51,299 [ERROR] No se obtuvieron datos
+2026-05-15 13:28:42,008 [INFO] ==================================================
+2026-05-15 13:28:42,009 [INFO] SCRAPER PROFESIONAL — INICIANDO
+2026-05-15 13:28:42,010 [INFO] ==================================================
+2026-05-15 13:28:42,011 [INFO] Página 1: https://books.toscrape.com/catalogue/page-1.html
+2026-05-15 13:28:43,888 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-1.html
+2026-05-15 13:28:43,973 [INFO] Items encontrados en página: 20
+2026-05-15 13:28:43,995 [INFO] Total acumulado: 20
+2026-05-15 13:28:45,143 [INFO] Página 2: https://books.toscrape.com/catalogue/page-2.html
+2026-05-15 13:28:46,676 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-2.html
+2026-05-15 13:28:46,766 [INFO] Items encontrados en página: 20
+2026-05-15 13:28:46,782 [INFO] Total acumulado: 40
+2026-05-15 13:28:48,308 [INFO] Página 3: https://books.toscrape.com/catalogue/page-3.html
+2026-05-15 13:28:50,001 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-3.html
+2026-05-15 13:28:50,105 [INFO] Items encontrados en página: 20
+2026-05-15 13:28:50,120 [INFO] Total acumulado: 60
+2026-05-15 13:28:52,539 [INFO] Página 4: https://books.toscrape.com/catalogue/page-4.html
+2026-05-15 13:28:54,046 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-4.html
+2026-05-15 13:28:54,147 [INFO] Items encontrados en página: 20
+2026-05-15 13:28:54,166 [INFO] Total acumulado: 80
+2026-05-15 13:28:56,343 [INFO] Página 5: https://books.toscrape.com/catalogue/page-5.html
+2026-05-15 13:28:57,921 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-5.html
+2026-05-15 13:28:58,012 [INFO] Items encontrados en página: 20
+2026-05-15 13:28:58,032 [INFO] Total acumulado: 100
+2026-05-15 13:28:59,839 [INFO] Página 6: https://books.toscrape.com/catalogue/page-6.html
+2026-05-15 13:29:01,341 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-6.html
+2026-05-15 13:29:01,435 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:01,454 [INFO] Total acumulado: 120
+2026-05-15 13:29:03,016 [INFO] Página 7: https://books.toscrape.com/catalogue/page-7.html
+2026-05-15 13:29:04,594 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-7.html
+2026-05-15 13:29:04,684 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:04,734 [INFO] Total acumulado: 140
+2026-05-15 13:29:06,009 [INFO] Página 8: https://books.toscrape.com/catalogue/page-8.html
+2026-05-15 13:29:07,530 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-8.html
+2026-05-15 13:29:07,616 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:07,632 [INFO] Total acumulado: 160
+2026-05-15 13:29:09,362 [INFO] Página 9: https://books.toscrape.com/catalogue/page-9.html
+2026-05-15 13:29:10,905 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-9.html
+2026-05-15 13:29:11,000 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:11,015 [INFO] Total acumulado: 180
+2026-05-15 13:29:12,611 [INFO] Página 10: https://books.toscrape.com/catalogue/page-10.html
+2026-05-15 13:29:14,077 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-10.html
+2026-05-15 13:29:14,154 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:14,172 [INFO] Total acumulado: 200
+2026-05-15 13:29:16,183 [INFO] Página 11: https://books.toscrape.com/catalogue/page-11.html
+2026-05-15 13:29:17,903 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-11.html
+2026-05-15 13:29:18,004 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:18,019 [INFO] Total acumulado: 220
+2026-05-15 13:29:20,028 [INFO] Página 12: https://books.toscrape.com/catalogue/page-12.html
+2026-05-15 13:29:21,521 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-12.html
+2026-05-15 13:29:21,616 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:21,631 [INFO] Total acumulado: 240
+2026-05-15 13:29:23,975 [INFO] Página 13: https://books.toscrape.com/catalogue/page-13.html
+2026-05-15 13:29:25,535 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-13.html
+2026-05-15 13:29:25,611 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:25,638 [INFO] Total acumulado: 260
+2026-05-15 13:29:28,046 [INFO] Página 14: https://books.toscrape.com/catalogue/page-14.html
+2026-05-15 13:29:29,517 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-14.html
+2026-05-15 13:29:29,603 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:29,623 [INFO] Total acumulado: 280
+2026-05-15 13:29:31,190 [INFO] Página 15: https://books.toscrape.com/catalogue/page-15.html
+2026-05-15 13:29:32,734 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-15.html
+2026-05-15 13:29:32,820 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:32,835 [INFO] Total acumulado: 300
+2026-05-15 13:29:34,446 [INFO] Página 16: https://books.toscrape.com/catalogue/page-16.html
+2026-05-15 13:29:35,926 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-16.html
+2026-05-15 13:29:36,007 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:36,021 [INFO] Total acumulado: 320
+2026-05-15 13:29:37,182 [INFO] Página 17: https://books.toscrape.com/catalogue/page-17.html
+2026-05-15 13:29:39,000 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-17.html
+2026-05-15 13:29:39,049 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:39,075 [INFO] Total acumulado: 340
+2026-05-15 13:29:40,901 [INFO] Página 18: https://books.toscrape.com/catalogue/page-18.html
+2026-05-15 13:29:42,369 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-18.html
+2026-05-15 13:29:42,451 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:42,468 [INFO] Total acumulado: 360
+2026-05-15 13:29:43,986 [INFO] Página 19: https://books.toscrape.com/catalogue/page-19.html
+2026-05-15 13:29:45,485 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-19.html
+2026-05-15 13:29:45,566 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:45,584 [INFO] Total acumulado: 380
+2026-05-15 13:29:48,000 [INFO] Página 20: https://books.toscrape.com/catalogue/page-20.html
+2026-05-15 13:29:49,480 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-20.html
+2026-05-15 13:29:49,581 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:49,608 [INFO] Total acumulado: 400
+2026-05-15 13:29:52,003 [INFO] Página 21: https://books.toscrape.com/catalogue/page-21.html
+2026-05-15 13:29:53,543 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-21.html
+2026-05-15 13:29:53,596 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:53,614 [INFO] Total acumulado: 420
+2026-05-15 13:29:55,897 [INFO] Página 22: https://books.toscrape.com/catalogue/page-22.html
+2026-05-15 13:29:57,398 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-22.html
+2026-05-15 13:29:57,527 [INFO] Items encontrados en página: 20
+2026-05-15 13:29:57,542 [INFO] Total acumulado: 440
+2026-05-15 13:29:58,979 [INFO] Página 23: https://books.toscrape.com/catalogue/page-23.html
+2026-05-15 13:30:00,493 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-23.html
+2026-05-15 13:30:00,589 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:00,605 [INFO] Total acumulado: 460
+2026-05-15 13:30:02,700 [INFO] Página 24: https://books.toscrape.com/catalogue/page-24.html
+2026-05-15 13:30:04,241 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-24.html
+2026-05-15 13:30:04,305 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:04,331 [INFO] Total acumulado: 480
+2026-05-15 13:30:06,139 [INFO] Página 25: https://books.toscrape.com/catalogue/page-25.html
+2026-05-15 13:30:08,832 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-25.html
+2026-05-15 13:30:08,898 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:09,017 [INFO] Total acumulado: 500
+2026-05-15 13:30:10,855 [INFO] Página 26: https://books.toscrape.com/catalogue/page-26.html
+2026-05-15 13:30:13,394 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-26.html
+2026-05-15 13:30:13,561 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:13,586 [INFO] Total acumulado: 520
+2026-05-15 13:30:15,803 [INFO] Página 27: https://books.toscrape.com/catalogue/page-27.html
+2026-05-15 13:30:17,595 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-27.html
+2026-05-15 13:30:17,674 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:17,701 [INFO] Total acumulado: 540
+2026-05-15 13:30:19,194 [INFO] Página 28: https://books.toscrape.com/catalogue/page-28.html
+2026-05-15 13:30:22,644 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-28.html
+2026-05-15 13:30:22,703 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:22,789 [INFO] Total acumulado: 560
+2026-05-15 13:30:24,637 [INFO] Página 29: https://books.toscrape.com/catalogue/page-29.html
+2026-05-15 13:30:27,894 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-29.html
+2026-05-15 13:30:28,014 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:28,100 [INFO] Total acumulado: 580
+2026-05-15 13:30:29,444 [INFO] Página 30: https://books.toscrape.com/catalogue/page-30.html
+2026-05-15 13:30:32,006 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-30.html
+2026-05-15 13:30:32,198 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:32,255 [INFO] Total acumulado: 600
+2026-05-15 13:30:34,253 [INFO] Página 31: https://books.toscrape.com/catalogue/page-31.html
+2026-05-15 13:30:36,794 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-31.html
+2026-05-15 13:30:36,847 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:36,906 [INFO] Total acumulado: 620
+2026-05-15 13:30:38,482 [INFO] Página 32: https://books.toscrape.com/catalogue/page-32.html
+2026-05-15 13:30:40,966 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-32.html
+2026-05-15 13:30:41,015 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:41,033 [INFO] Total acumulado: 640
+2026-05-15 13:30:43,172 [INFO] Página 33: https://books.toscrape.com/catalogue/page-33.html
+2026-05-15 13:30:44,775 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-33.html
+2026-05-15 13:30:44,866 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:44,889 [INFO] Total acumulado: 660
+2026-05-15 13:30:47,099 [INFO] Página 34: https://books.toscrape.com/catalogue/page-34.html
+2026-05-15 13:30:48,608 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-34.html
+2026-05-15 13:30:48,704 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:48,727 [INFO] Total acumulado: 680
+2026-05-15 13:30:50,831 [INFO] Página 35: https://books.toscrape.com/catalogue/page-35.html
+2026-05-15 13:30:53,369 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-35.html
+2026-05-15 13:30:53,461 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:53,480 [INFO] Total acumulado: 700
+2026-05-15 13:30:55,790 [INFO] Página 36: https://books.toscrape.com/catalogue/page-36.html
+2026-05-15 13:30:57,318 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-36.html
+2026-05-15 13:30:57,421 [INFO] Items encontrados en página: 20
+2026-05-15 13:30:57,440 [INFO] Total acumulado: 720
+2026-05-15 13:30:59,093 [INFO] Página 37: https://books.toscrape.com/catalogue/page-37.html
+2026-05-15 13:31:00,717 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-37.html
+2026-05-15 13:31:00,820 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:00,844 [INFO] Total acumulado: 740
+2026-05-15 13:31:02,088 [INFO] Página 38: https://books.toscrape.com/catalogue/page-38.html
+2026-05-15 13:31:04,039 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-38.html
+2026-05-15 13:31:04,166 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:04,198 [INFO] Total acumulado: 760
+2026-05-15 13:31:05,361 [INFO] Página 39: https://books.toscrape.com/catalogue/page-39.html
+2026-05-15 13:31:07,009 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-39.html
+2026-05-15 13:31:07,109 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:07,129 [INFO] Total acumulado: 780
+2026-05-15 13:31:08,322 [INFO] Página 40: https://books.toscrape.com/catalogue/page-40.html
+2026-05-15 13:31:09,982 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-40.html
+2026-05-15 13:31:10,075 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:10,101 [INFO] Total acumulado: 800
+2026-05-15 13:31:11,136 [INFO] Página 41: https://books.toscrape.com/catalogue/page-41.html
+2026-05-15 13:31:12,741 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-41.html
+2026-05-15 13:31:12,831 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:12,856 [INFO] Total acumulado: 820
+2026-05-15 13:31:13,979 [INFO] Página 42: https://books.toscrape.com/catalogue/page-42.html
+2026-05-15 13:31:15,594 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-42.html
+2026-05-15 13:31:15,694 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:15,716 [INFO] Total acumulado: 840
+2026-05-15 13:31:17,267 [INFO] Página 43: https://books.toscrape.com/catalogue/page-43.html
+2026-05-15 13:31:18,900 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-43.html
+2026-05-15 13:31:18,995 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:19,015 [INFO] Total acumulado: 860
+2026-05-15 13:31:21,412 [INFO] Página 44: https://books.toscrape.com/catalogue/page-44.html
+2026-05-15 13:31:22,970 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-44.html
+2026-05-15 13:31:23,078 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:23,097 [INFO] Total acumulado: 880
+2026-05-15 13:31:24,289 [INFO] Página 45: https://books.toscrape.com/catalogue/page-45.html
+2026-05-15 13:31:25,936 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-45.html
+2026-05-15 13:31:26,062 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:26,087 [INFO] Total acumulado: 900
+2026-05-15 13:31:28,334 [INFO] Página 46: https://books.toscrape.com/catalogue/page-46.html
+2026-05-15 13:31:29,871 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-46.html
+2026-05-15 13:31:29,977 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:29,995 [INFO] Total acumulado: 920
+2026-05-15 13:31:31,754 [INFO] Página 47: https://books.toscrape.com/catalogue/page-47.html
+2026-05-15 13:31:33,369 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-47.html
+2026-05-15 13:31:33,455 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:33,478 [INFO] Total acumulado: 940
+2026-05-15 13:31:34,488 [INFO] Página 48: https://books.toscrape.com/catalogue/page-48.html
+2026-05-15 13:31:36,071 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-48.html
+2026-05-15 13:31:36,122 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:36,180 [INFO] Total acumulado: 960
+2026-05-15 13:31:38,069 [INFO] Página 49: https://books.toscrape.com/catalogue/page-49.html
+2026-05-15 13:31:39,647 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-49.html
+2026-05-15 13:31:39,729 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:39,770 [INFO] Total acumulado: 980
+2026-05-15 13:31:41,464 [INFO] Página 50: https://books.toscrape.com/catalogue/page-50.html
+2026-05-15 13:31:43,036 [INFO] OK [200] → https://books.toscrape.com/catalogue/page-50.html
+2026-05-15 13:31:43,123 [INFO] Items encontrados en página: 20
+2026-05-15 13:31:43,155 [INFO] Total acumulado: 1000
+2026-05-15 13:31:43,159 [INFO] Última página alcanzada
+2026-05-15 13:31:44,827 [INFO] ✓ Guardado: outputs/scraping_20260515_133143.xlsx — 999 productos únicos
+2026-05-15 13:31:44,828 [INFO] ==================================================
+2026-05-15 13:31:44,828 [INFO] COMPLETADO: 999 productos
+2026-05-15 13:31:44,830 [INFO] Precio mín: £10.0 | máx: £59.99
+2026-05-15 13:31:44,830 [INFO] ==================================================
