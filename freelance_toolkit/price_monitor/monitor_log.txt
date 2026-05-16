@@ -1,0 +1,27 @@
+2026-05-15 20:58:10,341 [INFO] 🚀 PRICE MONITOR INICIANDO
+2026-05-15 20:58:10,378 [INFO] ✓ Base de datos inicializada
+2026-05-15 20:58:10,378 [INFO] ==================================================
+2026-05-15 20:58:10,380 [INFO] CHEQUEANDO PRECIOS — 2026-05-15 20:58:10
+2026-05-15 20:58:10,381 [INFO] ==================================================
+2026-05-15 20:58:10,382 [INFO] Chequeando: A Light in the Attic
+2026-05-15 20:58:12,464 [INFO] 💰 Precio actual: £51.77 | Objetivo: £55.0
+2026-05-15 20:58:12,476 [INFO] 🚨 ALERTA: A Light in the Attic alcanzó el objetivo!
+2026-05-15 20:58:12,476 [WARNING] Email no configurado — mostrando alerta en consola
+2026-05-15 20:58:12,478 [INFO] 🚨 ALERTA: A Light in the Attic bajó a £51.77 (objetivo: £55.0)
+2026-05-15 20:58:12,479 [INFO] 🔗 https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-05-15 20:58:13,781 [INFO] Chequeando: Tipping the Velvet
+2026-05-15 20:58:15,241 [INFO] 💰 Precio actual: £53.74 | Objetivo: £50.0
+2026-05-15 20:58:15,278 [INFO] ✓ Precio sobre objetivo — sin alerta
+2026-05-15 20:58:16,465 [INFO] Chequeando: Soumission
+2026-05-15 20:58:19,214 [INFO] 💰 Precio actual: £50.1 | Objetivo: £45.0
+2026-05-15 20:58:19,279 [INFO] ✓ Precio sobre objetivo — sin alerta
+2026-05-15 20:58:20,673 [INFO] ==================================================
+2026-05-15 20:58:20,845 [INFO] CHEQUEO COMPLETADO
+2026-05-15 20:58:21,023 [INFO] ==================================================
+2026-05-15 20:58:21,078 [INFO] ⏰ Próximo chequeo en 60 minutos
+2026-05-15 21:04:55,961 [WARNING] ALERT (console): A Light in the Attic @ £51.77
+2026-05-15 21:05:06,543 [WARNING] ALERT (console): Sharp Objects @ £47.82
+2026-05-15 21:05:14,561 [INFO] Check complete: 5 products, 2 alerts
+2026-05-15 21:08:25,694 [WARNING] ALERT (console): A Light in the Attic @ £51.77
+2026-05-15 21:08:36,996 [WARNING] ALERT (console): Sharp Objects @ £47.82
+2026-05-15 21:08:41,671 [INFO] Check complete: 5 products, 2 alerts
